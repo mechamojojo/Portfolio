@@ -1,5 +1,4 @@
-# Portfolio
-Content Creation
+# A bit about me
 
 Detail-oriented content writer, crypto researcher, and market analyst with 4+ years of experience in the Web3 ecosystem, specializing in on-chain analytics, DeFi, and ecosystem growth. Proven ability to conduct market research, analyze trends, and translate complex crypto mechanisms into actionable insights.
 Having contributed to Gnosis Pay, PERCS, and Royaltiz. Skilled in quantitative and qualitative research, community-driven insights, and content creation.
